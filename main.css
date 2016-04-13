@@ -10,3 +10,5 @@ p {
  display: inline-block;
 }
 
+/* Media queires */
+@media (min-width: 720px)
