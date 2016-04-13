@@ -1,6 +1,7 @@
 h1 {
   color: #099;
   text-decoration: underline;
+  text-indent: 10px;
 }
 html {
   background-color: #ffc;
@@ -8,3 +9,4 @@ html {
 p {
   text-indent: 50px;
 }
+
