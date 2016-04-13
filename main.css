@@ -11,7 +11,8 @@ p {
 }
 
 /* Media queires */
-@media (min-width: 720px)
+@media (min-width: 720px) {
 p {
   float: right;
+}
 }
