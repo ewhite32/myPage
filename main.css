@@ -11,8 +11,8 @@ p {
 }
 
 /* Media queires */
-@media (min-width: 720px) {
+@media only screen and (max-width: 500px) {
 p {
-  float: right;
+  color: #000;
 }
 }
