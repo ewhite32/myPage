@@ -10,6 +10,10 @@ html {
 p {
  color: #669; 
 }
+.feat-img {
+  width: 50%;
+  float: left;
+}
 
 /* Media queires */
 @media only screen and (max-width: 500px) {
