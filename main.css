@@ -22,4 +22,7 @@ p {
   display: inline-block;
   float: right;
 }
+.feat-img {
+  width: 100%;
+}
 }
