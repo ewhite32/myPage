@@ -14,5 +14,6 @@ p {
 @media only screen and (max-width: 500px) {
 p {
   color: #000;
+  display: block;
 }
 }
