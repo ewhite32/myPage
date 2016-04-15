@@ -2,6 +2,7 @@ h1 {
   color: #099;
   text-decoration: underline;
   text-align: center;
+  padding-bottom: 20px;
 }
 html {
   background-color: #ffc;
