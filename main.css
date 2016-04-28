@@ -9,10 +9,6 @@ html {
 }
 ul {
 display: inline-block;
-    width: 150px;
-    height: 90px;
-    margin: 10px;
-    border: 5px solid #609;
 }
 p {
  color: #3fc; 
