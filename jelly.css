@@ -1,0 +1,23 @@
+html {
+ background-color: #89d6d6 
+}
+h1 {
+  color: #943BC5;
+}
+ul {
+  
+}
+li {
+  color: #000;
+}
+
+/* Media queries */
+@media only screen and (max-width: 500px) {
+ul {
+  display: inline-block;
+  float: right;
+}
+.sec-img {
+  width: 100%;
+}
+}
