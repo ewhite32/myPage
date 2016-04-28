@@ -7,7 +7,8 @@ h1 {
 html {
   background-color: #69f;
 }
-ul, li, {
+ul, 
+li {
 display: inline-block;
 }
 p {
