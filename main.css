@@ -18,6 +18,7 @@ p {
 .feat-img {
   width: 25%;
   float: left;
+  margin-left: 5px;
 }
 
 /* Media queries */
