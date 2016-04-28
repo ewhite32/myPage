@@ -13,7 +13,7 @@ display: inline-block;
 }
 p {
  color: #3fc; 
- padding-left: 3px;
+ margin-left: 5px;
 }
 .feat-img {
   width: 25%;
