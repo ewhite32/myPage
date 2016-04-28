@@ -7,8 +7,8 @@ h1 {
 html {
   background-color: #69f;
 }
-ul {
-display: inline-block;
+ul, li {
+display: block;
 }
 p {
  color: #3fc; 
