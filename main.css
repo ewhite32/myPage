@@ -34,12 +34,12 @@ display: inline-block;
 }
 .feat-img {
   width: 50%;
-  margin-left: 5px;
 }
 
 /* Media queries */
 @media only screen and (max-width: 500px) {
-p {
+.primary-content,
+.secondary-content {
   display: inline-block;
   float: right;
 }
