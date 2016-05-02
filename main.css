@@ -15,6 +15,7 @@ display: inline-block;
  color: #3fc; 
  margin-left: 5px;
  width: 40%;
+ background-color: #000;
 }
 .secondary-col {
  color: #3fc;
