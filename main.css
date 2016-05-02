@@ -28,6 +28,7 @@ display: inline-block;
  float: right;
 }
 .col {
+ padding: 0px;
  float: left;
  width: 30%;
 }
