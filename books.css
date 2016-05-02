@@ -14,7 +14,7 @@ h2 {
  width: 40%;
 }
 .secondary-content {
- color: #3fc;
+ float: right;
 }
 .col:last-child {
  float: right;
