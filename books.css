@@ -1,8 +1,12 @@
 html {
 background-color: #c9c;
 }
-header {
+h1 {
 color: #000;
+text-align: center;
+}
+h2 {
+ text-align: center;
 }
 .primary-content {
  color: #3fc; 
