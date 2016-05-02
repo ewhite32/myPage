@@ -10,6 +10,22 @@ ul {
 li {
   color: #000;
 }
+.primary-content {
+ color: #60f; 
+ margin-left: 5px;
+ width: 40%;
+}
+.secondary-content {
+ float: right;
+}
+.col:last-child {
+ float: right;
+}
+.col {
+ padding: 20px;
+ float: left;
+ width: 30%;
+}
 
 /* Media queries */
 @media only screen and (max-width: 500px) {
