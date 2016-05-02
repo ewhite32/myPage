@@ -4,6 +4,9 @@ h1 {
   text-align: center;
   padding-bottom: 20px;
 }
+h2 {
+ margin-left: 10px;
+}
 html {
   background-color: #69f;
 }
