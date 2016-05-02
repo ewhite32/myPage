@@ -4,6 +4,16 @@ background-color: #c9c;
 header {
 color: #000;
 }
+.primary-content {
+ color: #3fc; 
+ margin-left: 5px;
+ width: 40%;
+ background-color: #270339;
+}
+.secondary-content {
+ color: #3fc;
+ background-color: #9974AA;
+}
 .col:last-child {
  float: right;
 }
