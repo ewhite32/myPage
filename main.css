@@ -15,6 +15,7 @@ display: inline-block;
  color: #3fc; 
  margin-left: 5px;
  float: right;
+ column-width: 50px;
 }
 .feat-img {
   width: 25%;
