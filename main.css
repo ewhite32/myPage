@@ -11,9 +11,12 @@ ul,
 li {
 display: inline-block;
 }
-.primary-col {
+.primary-content {
  color: #3fc; 
  margin-left: 5px;
+ width: 40%;
+}
+.col:last-child {
  float: right;
 }
 .col {
