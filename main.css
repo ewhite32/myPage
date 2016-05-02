@@ -18,6 +18,8 @@ display: inline-block;
 }
 .col {
  padding: 20px;
+ float: left;
+ width: 30%;
 }
 .feat-img {
   width: 25%;
