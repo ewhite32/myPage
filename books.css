@@ -4,6 +4,11 @@ background-color: #c9c;
 header {
 color: #000;
 }
-.book-image {
-  float: right;
+.col:last-child {
+ float: right;
+}
+.col {
+ padding: 20px;
+ float: left;
+ width: 30%;
 }
