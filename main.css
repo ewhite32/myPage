@@ -16,6 +16,9 @@ display: inline-block;
  margin-left: 5px;
  width: 40%;
 }
+.secondary-col {
+ color: #3fc;
+}
 .col:last-child {
  float: right;
 }
