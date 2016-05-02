@@ -4,3 +4,6 @@ background-color: #c9c;
 header {
 color: #000;
 }
+.book-image {
+  float: right;
+}
